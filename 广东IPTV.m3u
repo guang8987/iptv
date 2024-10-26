@@ -154,15 +154,15 @@ http://113.109.250.116:9999/udp/239.253.43.71:5146
 http://113.109.250.116:9999/udp/239.253.43.73:5146
 #EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="广东",深圳电视剧 
 http://113.109.250.116:9999/udp/239.77.1.177:5146
-#EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/myTV SUPER 18台.png" group-title="myTV SUPER 18台",myTV SUPER 18台
+#EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/myTV SUPER 18台.png" group-title="广东",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/PopC.png" group-title="广东",PopC 
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" group-title="广东",TVB Plus
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVBPlus.png" group-title="广东",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="广东",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS-新闻台" tvg-name="TVBS-新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS-新闻台.png" group-title="广东",TVBS-新闻台
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="广东",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.112114.xyz/logo/三立中综合台.png" group-title="广东",三立綜合台
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
