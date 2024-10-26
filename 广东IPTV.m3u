@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 
 http://113.109.250.116:9999/udp/239.77.0.129:5146
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 
